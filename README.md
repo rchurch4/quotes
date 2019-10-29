@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+## Quotes
 
-You can use the [editor on GitHub](https://github.com/rchurch4/quotes/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I like quotes.  I need a place to store the quotes that I like in order to recall them at will.  This is a work in progress, and the list in very much incomplete. Here goes nothing.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Inspirational
 
-### Markdown
+**“Let's think the unthinkable, let's do the undoable. Let us prepare to grapple with the ineffable itself, and see if we may not eff it after all.”** - Douglas Adams
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**“I may not have gone where I intended to go, but I think I have ended up where I needed to be.”** - Douglas Adams
 
-```markdown
-Syntax highlighted code block
+**“Hide not your Talents, they for Use were made. What’s a Sun-Dial in the shade!”** - Ben Franklin
 
-# Header 1
-## Header 2
-### Header 3
+**“What you seem to be, be really.”** - Ben Franklin
 
-- Bulleted
-- List
+**"Lost time is never found again."** - Ben Franklin
 
-1. Numbered
-2. List
+### Funny
 
-**Bold** and _Italic_ and `Code` text
+**“I love deadlines. I love the whooshing noise they make as they go by.”** - Douglas Adams
 
-[Link](url) and ![Image](src)
-```
+**In the beginning the Universe was created. This has made a lot of people very angry and been widely regarded as a bad move.”** - Douglas Adams
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+**“Time is an illusion. Lunchtime doubly so.”** - Douglas Adams
 
-### Jekyll Themes
+### Other
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rchurch4/quotes/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**“Let us read, and let us dance; these two amusements will never do any harm to the world.”** - Voltaire
