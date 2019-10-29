@@ -24,6 +24,16 @@ I like quotes.  I need a place to store the quotes that I like in order to recal
 
 ### Other
 
+**"Wit beyond measure is man's greatest treasure."** - J.K. Rowling
+
 **“Let us read, and let us dance; these two amusements will never do any harm to the world.”** - Voltaire
 
 **"A common mistake that people make when trying to design something completely foolproof is to underestimate the ingenuity of complete fools."** - Douglas Adams
+
+**"Let us step out into the night and pursue that flighty temptress, adventure."** - J.K. Rowling
+
+**" If you want to know what a man’s like, take a good look at how he treats his inferiors, not his equals."** - J.K. Rowling
+
+
+
+**"Mischief managed."** - J.K. Rowling
