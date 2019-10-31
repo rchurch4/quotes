@@ -14,6 +14,8 @@ I like quotes.  I need a place to store the quotes that I like in order to recal
 
 **"Lost time is never found again."** - Ben Franklin
 
+**"If you want to build a ship, don't drum up people to collect wood and don't assign them tasks and work, but rather teach them to long for the endless immensity of the sea."** - Antoine de Saint-Exupery
+
 ### Funny
 
 **“I love deadlines. I love the whooshing noise they make as they go by.”** - Douglas Adams
