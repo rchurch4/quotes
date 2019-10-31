@@ -37,6 +37,7 @@ I like quotes.  I need a place to store the quotes that I like in order to recal
 ### Quotable People whose quotes I have yet to record here
 
 Camus
+
 Saint-Exupery
 
 **"Mischief managed."** - J.K. Rowling
