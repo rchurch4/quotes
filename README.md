@@ -22,6 +22,10 @@ I like quotes.  I need a place to store the quotes that I like in order to recal
 
 **“Time is an illusion. Lunchtime doubly so.”** - Douglas Adams
 
+### Technology
+
+**"The machine does not isolate man from the great problems of nature but plunges him more deeply into them."** - Antoine de Saint-Exupery
+
 ### Other
 
 **"Wit beyond measure is man's greatest treasure."** - J.K. Rowling
