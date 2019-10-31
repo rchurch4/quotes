@@ -34,6 +34,9 @@ I like quotes.  I need a place to store the quotes that I like in order to recal
 
 **" If you want to know what a man’s like, take a good look at how he treats his inferiors, not his equals."** - J.K. Rowling
 
+### Quotable People whose quotes I have yet to record here
 
+Camus
+Saint-Exupery
 
 **"Mischief managed."** - J.K. Rowling
