@@ -46,4 +46,8 @@ Camus
 
 Saint-Exupery
 
+Teddy Roosevelt
+
+FDR
+
 **"Mischief managed."** - J.K. Rowling
