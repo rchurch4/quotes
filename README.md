@@ -16,6 +16,13 @@ I like quotes.  I need a place to store the quotes that I like in order to recal
 
 **"If you want to build a ship, don't drum up people to collect wood and don't assign them tasks and work, but rather teach them to long for the endless immensity of the sea."** - Antoine de Saint-Exupery
 
+**“Live! Live the wonderful life that is in you! Let nothing be lost upon you. Be always searching for new sensations. Be afraid of nothing.”** - Oscar Wilde
+
+**“Whenever you are asked if you can do a job, tell 'em, 'Certainly I can!' Then get busy and find out how to do it.”**
+― Theodore Roosevelt
+
+**“Nobody cares how much you know, until they know how much you care.”** - Theodore Roosevelt
+
 ### Funny
 
 **“I love deadlines. I love the whooshing noise they make as they go by.”** - Douglas Adams
@@ -23,6 +30,10 @@ I like quotes.  I need a place to store the quotes that I like in order to recal
 **In the beginning the Universe was created. This has made a lot of people very angry and been widely regarded as a bad move.”** - Douglas Adams
 
 **“Time is an illusion. Lunchtime doubly so.”** - Douglas Adams
+
+**“I like persons better than principles, and I like persons with no principles better than anything else in the world.”** - Oscar Wilde
+
+**“Be yourself; everyone else is already taken.”** - Oscar Wilde
 
 ### Technology
 
@@ -38,7 +49,14 @@ I like quotes.  I need a place to store the quotes that I like in order to recal
 
 **"Let us step out into the night and pursue that flighty temptress, adventure."** - J.K. Rowling
 
+**“To waste, to destroy our natural resources, to skin and exhaust the land instead of using it so as to increase its usefulness, will result in undermining in the days of our children the very prosperity which we ought by right to hand down to them amplified and developed.”**
+― Theodore Roosevelt
+
 **" If you want to know what a man’s like, take a good look at how he treats his inferiors, not his equals."** - J.K. Rowling
+
+**“Education is an admirable thing, but it is well to remember from time to time that nothing that is worth knowing can be taught.”** - Oscar Wilde
+
+**"All that you can take with you is that which you've given away"** - Peter Bailey (It's a Wonderful Life)
 
 ### Quotable People whose quotes I have yet to record here
 
