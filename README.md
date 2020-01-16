@@ -4,6 +4,8 @@ I like quotes.  I need a place to store the quotes that I like in order to recal
 
 ### Inspirational
 
+**"Not all those who wander are lost."** - J. R. R. Tolkien
+
 **"Let's think the unthinkable, let's do the undoable. Let us prepare to grapple with the ineffable itself, and see if we may not eff it after all."** - Douglas Adams
 
 **"I may not have gone where I intended to go, but I think I have ended up where I needed to be."** - Douglas Adams
