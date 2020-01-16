@@ -47,6 +47,8 @@ I like quotes.  I need a place to store the quotes that I like in order to recal
 
 **"The machine does not isolate man from the great problems of nature but plunges him more deeply into them."** - Antoine de Saint-Exupery
 
+**"Any sufficiently advanced technology is indistinguishable from magic."** - Arthur C. Clarke
+
 ### Other
 
 **"Wit beyond measure is man's greatest treasure."** - J.K. Rowling
