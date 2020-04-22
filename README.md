@@ -29,7 +29,9 @@ I like quotes.  I need a place to store the quotes that I like in order to recal
 
 **"Listen to the mustn'ts, child. Listen to the don'ts. Listen to the shouldn'ts, the impossibles, the won'ts. Listen to the never haves, then listen close to me... Anything can happen, child. Anything can be."** - Shel Silverstein
 
-**"Success is not final, failure is not fatal: it is the courage to continue that counts."** - Winston Churchill
+**“Attitude is a little thing that makes a BIG difference.”** - Winston Churchill
+
+**"Success is not final, failure is not fatal. it is the courage to continue that counts."** - Winston Churchill
 
 ### Funny
 
@@ -61,6 +63,8 @@ I like quotes.  I need a place to store the quotes that I like in order to recal
 
 **"To waste, to destroy our natural resources, to skin and exhaust the land instead of using it so as to increase its usefulness, will result in undermining in the days of our children the very prosperity which we ought by right to hand down to them amplified and developed."**
 ― Theodore Roosevelt
+
+**"Fine sucks."** - Elaine Churchill
 
 **"If you want to know what a man’s like, take a good look at how he treats his inferiors, not his equals."** - J.K. Rowling
 
