@@ -31,6 +31,8 @@ I like quotes.  I need a place to store the quotes that I like in order to recal
 
 **“Attitude is a little thing that makes a BIG difference.”** - Winston Churchill
 
+**"The universe is full of magical things, patiently waiting for our wits to grow sharper."** - Eden Phillpotts
+
 **"Success is not final, failure is not fatal. it is the courage to continue that counts."** - Winston Churchill
 
 ### Funny
@@ -65,6 +67,8 @@ I like quotes.  I need a place to store the quotes that I like in order to recal
 ― Theodore Roosevelt
 
 **"Fine sucks."** - Elaine Churchill
+
+**"The people sensible enough to give good advice are usually sensible enough to give none."** - Eden Phillpotts
 
 **"If you want to know what a man’s like, take a good look at how he treats his inferiors, not his equals."** - J.K. Rowling
 
