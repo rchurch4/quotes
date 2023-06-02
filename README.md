@@ -61,6 +61,8 @@ I like quotes.  I need a place to store the quotes that I like in order to recal
 
 **"A common mistake that people make when trying to design something completely foolproof is to underestimate the ingenuity of complete fools."** - Douglas Adams
 
+**"We are stuck with technology when what we really want is just stuff that works."** - Douglas Adams
+
 **"Let us step out into the night and pursue that flighty temptress, adventure."** - J.K. Rowling
 
 **"To waste, to destroy our natural resources, to skin and exhaust the land instead of using it so as to increase its usefulness, will result in undermining in the days of our children the very prosperity which we ought by right to hand down to them amplified and developed."**
